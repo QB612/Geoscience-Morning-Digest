@@ -1,10 +1,9 @@
-# rss_reader.py
+# scripts/rss_reader.py
 import feedparser
 import json
 import os
 from datetime import datetime
 
-# -------------------
 RSS_FEEDS = [
     "http://www.nature.com/nature/current_issue/rss",
     "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
@@ -26,65 +25,78 @@ SEEN_FILE = "state/seen.json"
 
 today = datetime.now().strftime("%Y-%m-%d")
 
-# -------------------
-# 读取已有 seen.json
-if os.path.exists(SEEN_FILE):
+# -------------------------
+# Load / Save Seen IDs
+# -------------------------
+def load_seen():
+    if not os.path.exists(SEEN_FILE):
+        return []
     try:
         with open(SEEN_FILE, "r", encoding="utf-8") as f:
-            seen = json.load(f)
-    except Exception:
-        seen = []
-else:
-    seen = []
+            data = f.read().strip()
+            return json.loads(data) if data else []
+    except Exception as e:
+        print(f"读取 seen.json 出错: {e}")
+        return []
 
-# 用 set 来快速检查已抓取的链接或 ID
-seen_ids = set()
-for entry in seen:
-    uid = entry.get("id") or entry.get("link")
-    if uid:
-        seen_ids.add(uid)
+def save_seen(seen_list):
+    os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
+    with open(SEEN_FILE, "w", encoding="utf-8") as f:
+        json.dump(seen_list, f, indent=2, ensure_ascii=False)
 
-new_entries = []
+# -------------------------
+# Fetch RSS Feeds
+# -------------------------
+def fetch_new_entries():
+    seen = load_seen()
+    seen_ids = {p.get("id") for p in seen if "id" in p}
 
-# -------------------
-# 遍历 RSS 抓取新条目
-for feed_url in RSS_FEEDS:
-    print(f"抓取 RSS：{feed_url}")
-    feed = feedparser.parse(feed_url)
-    source_name = feed.feed.get("title", "未知来源")
-    for entry in feed.entries:
-        uid = entry.get("id") or entry.get("link")
-        if not uid or uid in seen_ids:
-            continue
+    new_entries = []
 
-        authors_list = []
-        if "authors" in entry:
-            for a in entry["authors"]:
-                name = a.get("name") or ""
-                if name:
-                    authors_list.append(name)
+    for url in RSS_FEEDS:
+        print(f"解析 RSS: {url}")
+        feed = feedparser.parse(url)
+        source_name = feed.feed.get("title", "未知来源")
 
-        new_entry = {
-            "id": uid,
-            "title": entry.get("title", "未知标题"),
-            "link": entry.get("link", ""),
-            "source": source_name,
-            "summary": entry.get("summary", "").strip(),
-            "authors": authors_list,
-            "date": today
-        }
+        for entry in feed.entries:
+            uid = entry.get("id") or entry.get("link")
+            if not uid or uid in seen_ids:
+                continue
 
-        seen.append(new_entry)
-        seen_ids.add(uid)
-        new_entries.append(new_entry)
+            # 安全获取作者列表
+            authors = []
+            if "authors" in entry:
+                for a in entry.authors:
+                    name = a.get("name")
+                    if name:
+                        authors.append(name)
 
-print(f"本次抓取新论文数量：{len(new_entries)}")
-print(f"累计论文总数：{len(seen)}")
+            new_entry = {
+                "id": uid,
+                "title": entry.get("title", "未知标题"),
+                "link": entry.get("link", ""),
+                "authors": authors,
+                "summary": entry.get("summary", "").strip(),
+                "source": source_name,
+                "date": today
+            }
 
-# -------------------
-# 保存 seen.json
-os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
-with open(SEEN_FILE, "w", encoding="utf-8") as f:
-    json.dump(seen, f, ensure_ascii=False, indent=2)
+            new_entries.append(new_entry)
+            seen_ids.add(uid)
+            seen.append(new_entry)
 
-print(f"seen.json 已更新：{SEEN_FILE}")
+    save_seen(seen)
+    print(f"共抓取 {len(new_entries)} 篇新论文")
+    return new_entries
+
+# -------------------------
+# Main
+# -------------------------
+if __name__ == "__main__":
+    new_papers = fetch_new_entries()
+    if not new_papers:
+        print("今日无新增论文。")
+    else:
+        print("新增论文列表：")
+        for p in new_papers:
+            print(f"- {p['title']} ({p['source']})")
