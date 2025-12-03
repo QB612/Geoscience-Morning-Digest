@@ -1,4 +1,4 @@
-# 📚 Daily RSS Summary — 2025-12-02
+# 📚 Daily RSS Summary — 2025-12-03
 自动抓取主要地学期刊 & 综合科学期刊最新文章。
 
 
@@ -14,6 +14,11 @@ Author Correction: Video‐rate tunable colour electronic paper with human resol
 Nature, Published online: 02 December 2025; doi:10.1038/s41586-025-09872-5
 
 Author Correction: The first-principles phase diagram of monolayer nanoconfined water
+
+### [Bulk superconductivity up to 96 K in pressurized nickelate single crystals](https://www.nature.com/articles/s41586-025-09954-4)
+Nature, Published online: 02 December 2025; doi:10.1038/s41586-025-09954-4
+
+Bulk superconductivity up to 96 K in pressurized nickelate single crystals
 
 ### [Memes reveal threats to graduate-student mental health](https://www.nature.com/articles/d41586-025-03924-6)
 Nature, Published online: 02 December 2025; doi:10.1038/d41586-025-03924-6
@@ -40,20 +45,15 @@ Nature, Published online: 02 December 2025; doi:10.1038/d41586-025-03921-9
 
 Alternatives to animal research are not inherently more ethical
 
-### [Great science happens in great teams — research assessments must try to capture that](https://www.nature.com/articles/d41586-025-03910-y)
-Nature, Published online: 02 December 2025; doi:10.1038/d41586-025-03910-y
+### [Towns lag behind the switch to standard time](https://www.nature.com/articles/d41586-025-03738-6)
+Nature, Published online: 02 December 2025; doi:10.1038/d41586-025-03738-6
 
-Europe must reform the ways in which science is evaluated. To boost innovation, it must improve research culture.
+Places in England still using local mean time in 1875, and Niels Bohr delivers a talk on the latest in quantum theory, in this week’s peek at Nature’s archive.
 
-### [Why universities need to radically rethink exams in the age of AI](https://www.nature.com/articles/d41586-025-03915-7)
-Nature, Published online: 02 December 2025; doi:10.1038/d41586-025-03915-7
+### [This is the world’s largest spider web — November’s best science images](https://www.nature.com/articles/d41586-025-03903-x)
+Nature, Published online: 02 December 2025; doi:10.1038/d41586-025-03903-x
 
-Academia is unprepared for the rise in chatbot use among students — but with the right AI tools, personalized learning could soon become a reality.
-
-### [Will blockbuster obesity drugs revolutionize addiction treatment?](https://www.nature.com/articles/d41586-025-03911-x)
-Nature, Published online: 02 December 2025; doi:10.1038/d41586-025-03911-x
-
-Scientists are testing whether GLP-1 drugs can help to cut cravings for cigarettes, alcohol and opioids — as well as food.
+The month’s sharpest science shots, selected by Nature’s photo team.
 
 
 ---
@@ -80,14 +80,14 @@ Science, Volume 390, Issue 6776, November 2025.
 ### [Reranking partisan animosity in algorithmic social media feeds alters affective polarization](https://www.science.org/doi/abs/10.1126/science.adu5584?af=R)
 Science, Volume 390, Issue 6776, November 2025.   
 
-### [Rapid compensatory evolution within a multiprotein complex preserves telomere integrity](https://www.science.org/doi/abs/10.1126/science.adv0657?af=R)
-Science, Volume 390, Issue 6776, Page 918-924, November 2025.   
-
 ### [Realization of three- and four-body interactions between momentum states in a cavity](https://www.science.org/doi/abs/10.1126/science.adv0990?af=R)
 Science, Volume 390, Issue 6776, Page 925-929, November 2025.   
 
 ### [Structural basis of T-loop–independent recognition and activation of CDKs by the CDK-activating kinase](https://www.science.org/doi/abs/10.1126/science.adw0053?af=R)
 Science, Volume 390, Issue 6776, Page 911-917, November 2025.   
+
+### [Full utilization of noble metals by atom abstraction for propane dehydrogenation](https://www.science.org/doi/abs/10.1126/science.adw3053?af=R)
+Science, Volume 390, Issue 6776, November 2025.   
 
 
 ---
@@ -105,9 +105,6 @@ Science Advances, Volume 11, Issue 48, November 2025.
 ### [Neurophysiological signatures of default mode network dysfunction and cognitive decline in Alzheimer’s disease](https://www.science.org/doi/abs/10.1126/sciadv.adt8991?af=R)
 Science Advances, Volume 11, Issue 48, November 2025.   
 
-### [Climate stability and low population pressure predict peaceful interactions over 10,000 years of Central Andean history](https://www.science.org/doi/abs/10.1126/sciadv.adt9007?af=R)
-Science Advances, Volume 11, Issue 48, November 2025.   
-
 ### [TOP2B modulates DNA supercoiling and chromatin contacts during transcriptional induction](https://www.science.org/doi/abs/10.1126/sciadv.adu6524?af=R)
 Science Advances, Volume 11, Issue 48, November 2025.   
 
@@ -121,6 +118,9 @@ Science Advances, Volume 11, Issue 48, November 2025.
 Science Advances, Volume 11, Issue 48, November 2025.   
 
 ### [Adsorption-enhanced carbon membranes derived from copolyimide for ultrafast subangstrom discriminating CO2 separation](https://www.science.org/doi/abs/10.1126/sciadv.adv8650?af=R)
+Science Advances, Volume 11, Issue 48, November 2025.   
+
+### [Negligible contribution from aerosols to recent trends in Earth’s energy imbalance](https://www.science.org/doi/abs/10.1126/sciadv.adv9429?af=R)
 Science Advances, Volume 11, Issue 48, November 2025.   
 
 
@@ -171,10 +171,25 @@ Fingerprints of stratospheric particle transport and fallout
 ---
 
 ## 📰 Nature Communications
+### [Neural dissociation of attention and working memory through inhibitory control](https://www.nature.com/articles/s41467-025-66553-7)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66553-7
+
+Here, the authors combine brain imaging and non-invasive stimulation to show that attention and working memory are dissociable processes, with inhibitory control in the supramarginal gyrus gating what attended information reaches memory.
+
+### [CIP2A mediates mitotic recruitment of SLX4/MUS81/XPF to resolve replication stress-induced DNA lesions](https://www.nature.com/articles/s41467-025-66549-3)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66549-3
+
+How cells respond to replication-derived DNA damage that is carried over into mitosis is not well understood. Here, the authors show that CIP2A with TOPBP1 mediates the mitotic recruitment of the SLX4/MUS81/XPF nuclease complex to replication stress-induced DNA lesions to maintain genome integrity.
+
 ### [Halide insertion regulation for efficient and stable wide-bandgap perovskite photovoltaics](https://www.nature.com/articles/s41467-025-66970-8)
 Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66970-8
 
 Understanding the crystallization mechanism of mixed-halide wide-bandgap perovskites is critical to improve the performance of tandem solar cells. Here, the authors introduce ophenylenediamine to construct a π-conjugated molecular wall structure, achieving a maximum solar cell efficiency of 24.13%.
+
+### [The gut methanotroph <i>Methylocystis intestini</i> modulates intestinal peristalsis and fat metabolism via reducing methane levels](https://www.nature.com/articles/s41467-025-66596-w)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66596-w
+
+Here, the authors identify a methane-consuming human gut bacterium, Methylocystis intestini, showing it can affect digestion and fat metabolism by regulating gut methane levels, revealing a natural gut microbial potential mechanism helping maintain healthy gut function and balance.
 
 ### [CAV2-expressing nerves induce metabolic switch toward mitochondrial oxidative phosphorylation to promote cancer stemness](https://www.nature.com/articles/s41467-025-66914-2)
 Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66914-2
@@ -186,30 +201,15 @@ Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-02
 
 Detecting proton arrangements and quantum behavior at the atomic level is a challenge. Here, the authors use atomic force spectroscopy to reveal symmetry breaking in the proton arrangement in cyclic hydrogen bonds caused by nuclear quantum effects.
 
-### [Anti-phage defense mechanism involving phage-encoded DNA binding protein and bacterial reverse transcriptase DRT4](https://www.nature.com/articles/s41467-025-66997-x)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66997-x
+### [Remodeling and self-healing of individual amyloid tactoids via multiphoton absorption](https://www.nature.com/articles/s41467-025-66954-8)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66954-8
 
-Prokaryotic defense-associated reverse transcriptase (DRT) systems confer resistance to viral infection through DNA synthesis. Here, the authors dissect DRT4 mechanism of function and show that ORF55, a phage-encoded DNA-binding protein, protects the 3’ end of the DRT4- synthesized ssDNA, activating the anti-phage defense program.
+Controlling the shape and self-assembly of anisotropic colloidal systems is essential for developing heterogeneous liquid crystalline materials with adjustable properties and functions. This study utilizes stimuli-responsive, photothermal manipulation to achieve reversible, sub-micron control of individual colloidal condensates, known as tactoids, allowing for processes such as cutting, healing, and information storage.
 
-### [A spatial atlas of the complement system uncovers unique expression patterns in postnatal brain development in mice](https://www.nature.com/articles/s41467-025-66048-5)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66048-5
+### [Ultrathin Single-Walled Carbon Nanotube Surface Wave Absorbers for Terahertz Dielectric Waveguides](https://www.nature.com/articles/s41467-025-66559-1)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66559-1
 
-The complement cascade is increasingly recognized in the brain. Here, with MERFISH, the authors showed developmentally regulated brain endogenous expression of complement genes and a potential role of the alternative pathway in brain development.
-
-### [Superior lead-free piezoceramics for wearable multimodal ultrasound imaging arrays](https://www.nature.com/articles/s41467-025-66913-3)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66913-3
-
-This study reports a flexible, lead-free ultrasound imaging array that enables real-time, high-resolution, and wearable imaging of human tissues, advancing safer and more portable ultrasound technology.
-
-### [An ammonia-induced universal synthesis approach for manganese based layered oxides](https://www.nature.com/articles/s41467-025-66960-w)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66960-w
-
-Developing positive electrodes with high stability and rapid ion migration kinetics faces challenges for sodium ion batteries. Here, authors report a universal synthesis approach for layered transition-metal oxides by updating the conventional solid-state reaction with only dicyandiamide introduced.
-
-### [Tensile strain regulation via grain boundary buffering for flexible perovskite solar cells](https://www.nature.com/articles/s41467-025-67027-6)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-67027-6
-
-The residual strain and modulus of polycrystalline films often limit the photovoltaic and mechanical performance of flexible perovskite solar cells. Here, the authors introduce metal chelates for a uniformly distributed tensile strain field, achieving a maximum efficiency of 24.47%.
+Nanometer-thin single-walled carbon nanotube films on silicon terahertz waveguides absorb surface waves with low reflection across 140–220 GHz, enabling ultracompact matched terminations and record shielding performance for terahertz circuits.
 
 
 ---
@@ -263,6 +263,10 @@ Natural CO2 removal is increasingly being claimed as anthropogenic climate mitig
 Proceedings of the National Academy of Sciences, Volume 122, Issue 50, December 2025.   
 SignificanceA speleothem record from the Kurdistan Region of Iraq records climatic and environmental changes during the transition from the Last Glacial Maximum (LGM) to the Holocene. It shows that local precipitation changes were synchronous with ...
 
+### [Large role of anthropogenic climate change in driving smoke concentrations across the western United States from 1992 to 2020](https://www.pnas.org/doi/abs/10.1073/pnas.2421903122?af=R)
+Proceedings of the National Academy of Sciences, Volume 122, Issue 49, December 2025.   
+SignificanceWildfire activity has increased dramatically in the western United States over the last three decades, leading to a significant impact on air quality and human health. This study highlights the substantial role of anthropogenic climate change (...
+
 ### [Warming from cold pools: A pathway for mesoscale organization to alter Earth’s radiation budget](https://www.pnas.org/doi/abs/10.1073/pnas.2513699122?af=R)
 Proceedings of the National Academy of Sciences, Volume 122, Issue 49, December 2025.   
 SignificanceShallow cumulus clouds play a central role in Earth’s energy balance, but remain a major source of uncertainty in climate projections. While climate models often assume these clouds are fully controlled by large-scale factors, observations ...
@@ -294,10 +298,6 @@ SignificanceThe transition boundary between continental and floating ice, or gro
 ### [Large drainage systems produced half of Mars’ ancient river sediment](https://www.pnas.org/doi/abs/10.1073/pnas.2514527122?af=R)
 Proceedings of the National Academy of Sciences, Volume 122, Issue 48, December 2025.   
 SignificanceRivers on Earth are large and dynamic systems that diversify ecosystems through interactions between climate and tectonics. Here, we show that even in the absence of plate tectonics on Mars, large drainage systems existed; however, they are ...
-
-### [Variability of annual polar motion and its relationship to the Chandler wobble](https://www.pnas.org/doi/abs/10.1073/pnas.2520272122?af=R)
-Proceedings of the National Academy of Sciences, Volume 122, Issue 48, December 2025.   
-SignificanceFor nearly a century, continuing to the present, a complete accounting of the excitation of the Chandler wobble (CW), a resonant motion of Earth’s rotation axis, has been a major scientific goal. We identify episodes of a near six-year ...
 
 
 ---
@@ -459,6 +459,13 @@ Author(s): Mingming Jiang, Yejun Jin, Xiaofei Fu, Quanyou Liu
 ---
 
 ## 📰 ScienceDirect Publication: Earth and Planetary Science Letters
+### [Colonial cold-water coral Li/Mg palaeothermometry: Influence of growth rate and skeletal heterogeneity](https://www.sciencedirect.com/science/article/pii/S0012821X25005412?dgcid=rss_sd_all)
+Publication date: January 2026
+
+**Source:** Earth and Planetary Science Letters, Volume 674
+
+Author(s): Qian (刘倩) Liu, Joseph A. Stewart, Laura F. Robinson, Sang Chen, Maoyu Wang, Tianyu Chen, Tao Li
+
 ### [First radar evidence of large-scale englacial folding in the South Polar Layered Deposits (Ultimi Scopuli, Mars) unveiled by MARSIS](https://www.sciencedirect.com/science/article/pii/S0012821X25005473?dgcid=rss_sd_all)
 Publication date: January 2026
 
@@ -521,13 +528,6 @@ Publication date: January 2026
 **Source:** Earth and Planetary Science Letters, Volume 674
 
 Author(s): Franck Poitrasson, Pierre Le Pape, Guillaume Morin, Romain Guilbaud, Camille Baya, Qianyu Deng, Jeremy Rabone, Julie Aufort, Marc Blanchard
-
-### [Rochechouart impact spherules](https://www.sciencedirect.com/science/article/pii/S0012821X25005461?dgcid=rss_sd_all)
-Publication date: January 2026
-
-**Source:** Earth and Planetary Science Letters, Volume 674
-
-Author(s): Axel Wittmann, Philippe Lambert
 
 
 ---
