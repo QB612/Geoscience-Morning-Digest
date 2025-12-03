@@ -33,9 +33,12 @@ else:
         raise ValueError("请设置环境变量 DEEPSEEK_API_KEY")
 
     url = "https://api.deepseek.ai/v1/generate"  # 替换为 DeepSeek 官方 endpoint
-    payload = {
-        "prompt": (
-            "你是一名地球科学领域的专业科研助手。
+
+    # 将论文列表拼接成字符串
+    papers_raw = "\n".join(papers)
+
+    # 使用三引号包裹多行 prompt，避免 SyntaxError
+    prompt = f"""你是一名地球科学领域的专业科研助手。
 
 下面是今天新增的论文列表，请你完成以下任务：
 
@@ -51,10 +54,12 @@ else:
 
 {papers_raw}
 
-请严格输出 Markdown 格式。"
-            "格式类似早报，每条包括标题和来源：\n\n" +
-            "\n".join(papers)
-        ),
+请严格输出 Markdown 格式。
+格式类似早报，每条包括标题和来源。
+"""
+
+    payload = {
+        "prompt": prompt,
         "model": "text-summary"
     }
     headers = {
