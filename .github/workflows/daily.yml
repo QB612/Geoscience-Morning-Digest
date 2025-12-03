@@ -1,48 +1,46 @@
-name: Daily RSS Summary
+name: build
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 0 点运行（北京时间 08:00）
-  workflow_dispatch:     # 手动触发按钮
-  push:
-    paths:
-      - "scripts/rss_reader.py"
+    - cron: "0 1 * * *"   # 日本时间10:00自动运行，可自行调整
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # 必须完整拉取，否则 push --force 不安全
+          persist-credentials: true
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.10"
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        pip install feedparser markdownify requests pandas
+      - name: Install dependencies
+        run: |
+          pip install feedparser markdownify requests pandas
 
-    - name: Run RSS script
-      run: |
-        python scripts/rss_reader.py
+      - name: Run RSS reader
+        run: |
+          python scripts/rss_reader.py
 
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name  "GitHub Action"
 
-        git add state/seen.json output/daily.md || true
+          git add -A
 
-        if git diff --cached --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update daily RSS summary"
-          git pull --rebase origin main || true
-          git push origin main || true
-        fi
+          # 如果没有变化，避免空提交
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-
-
+          git commit -m "Daily update $(date '+%Y-%m-%d %H:%M:%S')"
+          git push --force origin main
