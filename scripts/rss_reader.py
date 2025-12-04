@@ -23,8 +23,8 @@ RSS_URLS = [
     "https://rss.sciencedirect.com/publication/science/00128252",
     "https://rss.sciencedirect.com/publication/science/0012821X",
     "https://agupubs.onlinelibrary.wiley.com/feed/19448007/most-recent",
-    "https://agupubs.onlinelibrary.wiley.com/feed/21699356/most-recent", 
     "https://agupubs.onlinelibrary.wiley.com/feed/15252027/most-recent", 
+    "https://agupubs.onlinelibrary.wiley.com/feed/21699356/most-recent",
     "https://rss.sciencedirect.com/publication/science/00167037",
 ]
 
