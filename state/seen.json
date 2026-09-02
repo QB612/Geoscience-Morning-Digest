@@ -1,5 +1,293 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02083-1",
+    "title": "Multilayer soil moisture depletion intensifies drought impacts on global ecosystems",
+    "link": "https://www.nature.com/articles/s41561-026-02083-1",
+    "authors": [
+      "Xihui Gu",
+      "Ruijie Wang",
+      "Deliang Chen",
+      "Chiyuan Miao",
+      "Sijia Luo",
+      "Yansong Guan",
+      "Sixiang Wang",
+      "Liangwei Li",
+      "Tianshun Gu",
+      "Chuyu Luo",
+      "Jianfeng Li",
+      "Shengzhi Huang",
+      "Xueying Li",
+      "Jiefeng Wu",
+      "Xiang Zhang",
+      "Lunche Wang"
+    ],
+    "summary": "Nature Geoscience, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41561-026-02083-1\">doi:10.1038/s41561-026-02083-1</a>Vertically compound soil moisture droughts—when all soil layers are depleted—have intensified worldwide, driving sharper ecosystem losses than single-layer droughts, according to global analyses of multilayer soil moisture.",
+    "source": "Nature Geoscience",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74841-z",
+    "title": "Observation of a spin-textured nematic Kondo lattice",
+    "link": "https://www.nature.com/articles/s41467-026-74841-z",
+    "authors": [
+      "Yu-Xiao Jiang",
+      "Zi-Jia Cheng",
+      "Qiaozhi Xu",
+      "Md Shafayat Hossain",
+      "Xian P. Yang",
+      "Jia-Xin Yin",
+      "Maksim Litskevich",
+      "Tyler A. Cochran",
+      "Byunghoon Kim",
+      "Eduardo Miranda",
+      "Sheng Ran",
+      "Rafael M. Fernandes",
+      "M. Zahid Hasan"
+    ],
+    "summary": "Nature Communications, Published online: 02 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-74841-z\">doi:10.1038/s41467-026-74841-z</a>The authors study the layered Kondo magnet USbTe by spin-polarized scanning tunneling microscopy and spectroscopy. They discover a spin-polarized nematic state below 15 K, coinciding with the formation of heavy quasi-particles driven by band hybridization.",
+    "source": "Nature Communications",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77323-4",
+    "title": "Author Correction: Concavity-enhanced chiral self-assembly of anisotropic nanoparticles toward strong chiroptical activity",
+    "link": "https://www.nature.com/articles/s41467-026-77323-4",
+    "authors": [
+      "Jiayi Zhou",
+      "Yuzhe Gao",
+      "Deyi Zhang",
+      "Kexin Ren",
+      "Mengqi Dai",
+      "Huan Wang",
+      "Limin Qi"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77323-4\">doi:10.1038/s41467-026-77323-4</a>Author Correction: Concavity-enhanced chiral self-assembly of anisotropic nanoparticles toward strong chiroptical activity",
+    "source": "Nature Communications",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75590-9",
+    "title": "A machine learning method for calculating highly localized protein stabilities",
+    "link": "https://www.nature.com/articles/s41467-026-75590-9",
+    "authors": [
+      "Chenlin Lu",
+      "Kyle C. Weber",
+      "Savannah K. McBride",
+      "Andrew Reckers",
+      "Anum Glasgow"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-75590-9\">doi:10.1038/s41467-026-75590-9</a>PFNet is a machine learning model that infers residue-level protein stabilities from conventional hydrogen exchange-mass spectrometry data, transforming a widely used structural biology technique into a scalable tool for quantitative protein ensemble analysis.",
+    "source": "Nature Communications",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77166-z",
+    "title": "Ultrathin nano-layered boron nitride stabilizing perovskite quantum dot-based light-emitting diodes",
+    "link": "https://www.nature.com/articles/s41467-026-77166-z",
+    "authors": [
+      "Jindi Wang",
+      "Hongdan Ren",
+      "Bo Cai",
+      "Mingyang Li",
+      "Wenxuan Fan",
+      "Leimeng Xu",
+      "Jisong Yao",
+      "Shalong Wang",
+      "Jizhong Song"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77166-z\">doi:10.1038/s41467-026-77166-z</a>Perovskite quantum dot light-emitting diodes are promising for lighting and displays, but poor operational stability limits their use. Wang et al. added an ultrathin boron nitride interlayer to suppress defects, ion migration, and heat sensitivity, improving efficiency and lifetime.",
+    "source": "Nature Communications",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77157-0",
+    "title": "Lyapunov exponents explain disorder-induced polarization and soliton jumping in a mechanical Markov system",
+    "link": "https://www.nature.com/articles/s41467-026-77157-0",
+    "authors": [
+      "Will Stephenson",
+      "Nan Cheng",
+      "Kai Sun",
+      "Xiaoming Mao"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77157-0\">doi:10.1038/s41467-026-77157-0</a>Disordered mechanical systems can exhibit complex properties that are difficult to analyse. Here, the authors introduce a space-time mapping between one-dimensional mechanical systems and discrete-time dynamical systems to reveal disorder-induced polarization, nonuniform soliton transport, and other phenomena.",
+    "source": "Nature Communications",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77020-2",
+    "title": "Antichiral hinge states in a higher-order photonic nodal ring semimetal",
+    "link": "https://www.nature.com/articles/s41467-026-77020-2",
+    "authors": [
+      "Yuchen Peng",
+      "Deep Mondal",
+      "Yuting Yang",
+      "Wanting Wu",
+      "Bo Zhao",
+      "Shuaiyang Wei",
+      "Zhenzhi Liu",
+      "Wenrong Qi",
+      "Xiaokang Dai",
+      "Minqi Cheng",
+      "Weili Li",
+      "Xinyi Zhang",
+      "Fei-Fei Li",
+      "Rimi Banerjee",
+      "Minggui Wei",
+      "Jingyi Tian",
+      "Peiheng Zhou",
+      "Subhaskar Mandal",
+      "Baile Zhang",
+      "Gui-Geng Liu"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77020-2\">doi:10.1038/s41467-026-77020-2</a>The authors demonstrate antichiral hinge states in a photonic nodal-ring semimetal, revealing co-propagating one-way transport linking bulk, surface and hinge topology, robust to metallic obstacles and reconfigurable by layer addition or removal.",
+    "source": "Nature Communications",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74391-4",
+    "title": "Coulombic surface dipole trapping ionomer for efficient proton exchange membrane fuel cells",
+    "link": "https://www.nature.com/articles/s41467-026-74391-4",
+    "authors": [
+      "Siyuan Wang",
+      "Fanpeng Kong",
+      "Zhengyang Bao",
+      "Xiaozhi Zhao",
+      "Lei Zhang",
+      "Zhongxin Song",
+      "Junjie Li",
+      "Lei Du",
+      "Yongjun Xu",
+      "Bo Zhao",
+      "Geping Yin",
+      "Xueliang Sun"
+    ],
+    "summary": "Nature Communications, Published online: 01 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-74391-4\">doi:10.1038/s41467-026-74391-4</a>Low-platinum fuel cells need catalyst layers that move protons and oxygen efficiently, but uneven ionomer placement limits performance. Here, the authors report a cobalt single-atom dipole coating which guides the ionomer, protects platinum surfaces and boosts power and durability.",
+    "source": "Nature Communications",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002655",
+    "title": "Reply to <a href=\"https://rss.sciencedirect.com/publication/science/00128252#bb0025\" id=\"cf0005\" name=\"bbb0025\">Zhang (2026)</a>: Clarifying the phylogenetic analyses of Alienopteridae and Umenocoleidae in <a href=\"https://rss.sciencedirect.com/publication/science/00128252#bb0015\" id=\"cf0010\" name=\"bbb0015\">Luo et al. (2022)</a>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002655?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 1 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Cihang Luo, Rolf G. Beutel, Bo Wang",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004966",
+    "title": "A climatic threshold regulating Cenozoic silicate weathering and climate stability",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004966?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 694Author(s): Pan Zhang, Kang-Jun Huang, Yan Hu, Fang-Zhen Teng, Long Ma, Tian-Yi Huang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004917",
+    "title": "Eastern equatorial Pacific deep water Δ[CO<sub>3</sub><sup>2-</sup>] changes during the last glacial maximum and early deglacial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004917?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 694Author(s): Matthew W. Schmidt, Brian J. Close, Jennifer E. Hertzberg, Franco Marcantonio",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004863",
+    "title": "Three-dimensional inheritance geometry governs continental extension and metamorphic core complex formation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004863?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 694Author(s): Kun Wang, Jianfeng Yang, Liang Zhao",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "10.1029/2026GL123328",
+    "title": "Glacier‐Climate Feedbacks Modulate Last Glacial Maximum Dust Cycle Over the Third Pole",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123328?af=R",
+    "authors": [
+      "Qiang Wei, \nMiao Wang, \nZhengguo Shi, \nMeilin Zhu, \nGuangjian Wu, \nBaiqing Xu, \nYongyun Hu, \nTandong Yao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "10.1029/2024GL112047",
+    "title": "A Stochastic Model for Fog Forecasting",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112047?af=R",
+    "authors": [
+      "E. Cardoso‐Bihlo, \nB. Khouider"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "10.1029/2026GC013184",
+    "title": "Past the First Date: Ensemble Concordant–Discordant Comparison for Zircon Pb‐Loss Analysis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013184?af=R",
+    "authors": [
+      "Lucy M. Mathieson, \nChristopher L. Kirkland"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "10.1029/2026GC013080",
+    "title": "Petrogenesis and Tectonic Implication of the Newly Identified Rhyacian and Orosirian Orthogneisses in the Northwestern Part of the Gyeonggi Massif (Soyeonpyeongdo and Ganghwado Areas), South Korea: Constrained From Whole‐Rock Geochemistry and Zircon U‐Pb‐Hf Isotopic Compositions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013080?af=R",
+    "authors": [
+      "Seung Hwan Lee, \nDeung‐Lyong Cho, \nJeong‐Yeong Park, \nSung Won Kim, \nByung Choon Lee, \nMingguo Zhai"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "10.1029/2026JB034023",
+    "title": "Lithospheric Cliff‐Induced Asthenospheric Upwelling: Insights From High‐Resolution Broadband Lg Attenuation Structure Beneath the Carpathian‐Pannonian Region",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034023?af=R",
+    "authors": [
+      "Song‐Jie Yang, \nLian‐Feng Zhao, \nXiao‐Bi Xie, \nTuna Eken, \nXiao‐Bo Tian, \nZhen‐Xing Yao"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "10.1029/2026JB034380",
+    "title": "Flat‐Slab Subduction and Overriding Plate Architecture Beneath the Northwestern Andes Revealed by Receiver Functions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034380?af=R",
+    "authors": [
+      "Gaspar Monsalve, \nLara S. Wagner, \nDavid S. Avellaneda‐Jiménez, \nWilliam D. Frazer, \nMiguel A. Alzate"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "10.1029/2026JB034096",
+    "title": "Testing the Seismic Detectability of Magmatic Underplating Beneath the Hawaiian Ridge: A Synthetic Wavefield Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034096?af=R",
+    "authors": [
+      "Megumi Fujimoto, \nRobert A. Dunn"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600565X",
+    "title": "Redox overprinting and anthropogenic source shifts recorded by mercury isotope systematics in Eastern Mediterranean deep-sea sediments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600565X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 1 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xiaowei Chen, Daniel Cossa, Jiawang Wu, Lars-Eric Heimbürger-Boavida, Songjing Li, Zhao Wang, Steph Guédron, Wang Zheng, Yi Liu, Jiubin Chen, Ruoyu Sun",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-02"
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02090-2",
     "title": "Hadley circulation drives material isolation and pole-to-pole teleconnection on Mars",
     "link": "https://www.nature.com/articles/s41561-026-02090-2",
