@@ -1,5 +1,206 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77409-z",
+    "title": "Design of white circularly polarized luminescence with high <i>g</i><sub>lum</sub> across entire visible regions by dual-loop active learning",
+    "link": "https://www.nature.com/articles/s41467-026-77409-z",
+    "authors": [
+      "Peng Yang",
+      "Xiaoyue He",
+      "Hongli Zhang",
+      "Zeyu Feng",
+      "Liyang Wen",
+      "Li Wen",
+      "Yin Xu",
+      "Bo Chen",
+      "Mingjun Xiao",
+      "Xin Chen",
+      "Gang Zou"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77409-z\">doi:10.1038/s41467-026-77409-z</a>White circularly polarized luminescence materials are promising but combining favorable white-light colorimetric properties and strong chiroptical activities is difficult. Yang et al. adopted a dual-loop active learning strategy to realize high-performance materials and devices.",
+    "source": "Nature Communications",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76272-2",
+    "title": "Memristive singular value decomposition",
+    "link": "https://www.nature.com/articles/s41467-026-76272-2",
+    "authors": [
+      "Chenchen Ding",
+      "Zhengwu Liu",
+      "Yibei Zhang",
+      "Can Li",
+      "Jianshi Tang",
+      "Bin Gao",
+      "Hao Yu",
+      "Huaqiang Wu",
+      "Ngai Wong"
+    ],
+    "summary": "Nature Communications, Published online: 20 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76272-2\">doi:10.1038/s41467-026-76272-2</a>Efficient processing of high-dimensional datasets demands minimal information loss and reduced computational complexity. Ding et al. report a memristor-based system that boosts data simplification efficiency and accuracy, supporting applications in image reconstruction, biomedical signal analysis, and LLM fine tuning.",
+    "source": "Nature Communications",
+    "date": "2026-09-20"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77027-9",
+    "title": "Anti-thymocyte globulin triggers TNF-dependent cell death in T-cell acute lymphoblastic leukemia",
+    "link": "https://www.nature.com/articles/s41467-026-77027-9",
+    "authors": [
+      "Marie Emilie Dourthe",
+      "Mehdi Latiri",
+      "Etienne Lengliné",
+      "Guillaume Charbonnier",
+      "Chaimae Saji",
+      "Grégoire Huré",
+      "Camille Gillet",
+      "Jérôme Doss",
+      "Aurore Touzart",
+      "Lucien Courtois",
+      "Agata Cieslak",
+      "Mathieu Simonin",
+      "Norbert Ifrah",
+      "Hervé Dombret",
+      "Olivier Hermine",
+      "Nicolas Boissel",
+      "André Baruchel",
+      "Jacques Ghysdael",
+      "Elizabeth Macintyre",
+      "Philippe Rousselot",
+      "Christine Tran Quang",
+      "Guillaume P. Andrieu",
+      "Vahid Asnafi"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77027-9\">doi:10.1038/s41467-026-77027-9</a>Anti-thymocyte globulin (ATG) is a potent immunosuppressant used to prevent and treat acute organ transplant rejection and severe aplastic anemia. Here, the authors discover that ATG can be repurposed to induce TNF-driven cell death in T cell acute lymphoblastic leukemia.",
+    "source": "Nature Communications",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77463-7",
+    "title": "Virtual sensing to enable real-time monitoring of inaccessible locations &amp; unmeasurable parameters",
+    "link": "https://www.nature.com/articles/s41467-026-77463-7",
+    "authors": [
+      "Kazuma Kobayashi",
+      "Farid Ahmed",
+      "Jaewan Park",
+      "Subhankar Sarkar",
+      "Seid Koric",
+      "Souvik Chakraborty",
+      "Syed Bahauddin Alam"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77463-7\">doi:10.1038/s41467-026-77463-7</a>The authors introduce an operator-learning framework for real-time virtual sensing that reconstructs inaccessible interior physical fields from sparse, heterogeneous measurements and operating conditions.",
+    "source": "Nature Communications",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77880-8",
+    "title": "Kirigami-actuated reconfigurable topological photonic crystals",
+    "link": "https://www.nature.com/articles/s41467-026-77880-8",
+    "authors": [
+      "Mo-Dian Liu",
+      "Guobang Jiang",
+      "Jizhai Cui",
+      "Yongfeng Mei",
+      "Xiao-Dong Chen",
+      "Jian-Wen Dong"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77880-8\">doi:10.1038/s41467-026-77880-8</a>Using kirigami, the authors create a photonic crystal whose topology can be mechanically reconfigured, allowing corner states and light-routing paths to be switched after fabrication.",
+    "source": "Nature Communications",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77864-8",
+    "title": "Resonance-enhanced integrated acousto-optic beam steering",
+    "link": "https://www.nature.com/articles/s41467-026-77864-8",
+    "authors": [
+      "Yue Yu",
+      "Qixuan Lin",
+      "Shucheng Fang",
+      "Joseph G. Thomas",
+      "Yibing Zhou",
+      "Zichen Xi",
+      "Jun Ji",
+      "Yizheng Zhu",
+      "Linbo Shao",
+      "Bingzhao Li",
+      "Mo Li"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77864-8\">doi:10.1038/s41467-026-77864-8</a>The authors combine molecular-dimer calculations with simplified, coarse-grained simulations to predict the crystal structure of metal-organic cages and show how cage shape and the directionality of interactions influence the structures formed.",
+    "source": "Nature Communications",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77768-7",
+    "title": "Bayesian bilevel operator learning with low-rank adaptation for efficient uncertainty quantification of PDE inverse problems",
+    "link": "https://www.nature.com/articles/s41467-026-77768-7",
+    "authors": [
+      "Ray Zirui Zhang",
+      "Christopher E. Miles",
+      "Xiaohui Xie",
+      "John S. Lowengrub"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77768-7\">doi:10.1038/s41467-026-77768-7</a>Estimating parameters of partial differential equations from data with quantified uncertainty is computationally demanding. Here, authors combine bilevel local operator learning with low rank adaptation to enable efficient gradient-based posterior sampling without adjoint equations, pretraining data, or sampling network weights.",
+    "source": "Nature Communications",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005352",
+    "title": "Reconciling inferences of mantle viscosity and late Quaternary ice history - the importance of an asthenosphere and 3-D viscosity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005352?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Tao Yuan, Shijie Zhong, Glenn Milne, Donna dePolo",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005339",
+    "title": "Tungsten isotopes of intraplate basalts and implications for deep W recycling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005339?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Li-Tao Ma, Li-Qun Dai, Ye-Dan Hu, Qing-Feng Mei, Guo-Chao Sun, Xi Yu, Zi-Fu Zhao, Wei Dong",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005315",
+    "title": "Regime transitions of dynamos driven by fingering double-diffusive convection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005315?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Wei Fan, Yufeng Lin",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "10.1029/2026GL123799",
+    "title": "The 2025–2026 Iberian Atmospheric Rivers Exhibited Moisture Transport Resembling the Early SSP5‐8.5 Climate Response",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123799?af=R",
+    "authors": [
+      "J. C. Fernández‐Alvarez, \nG. Alvarez‐Socorro, \nR. Nieto, \nL. Gimeno"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "10.1029/2026JB034259",
+    "title": "Magnetic Dual‐Layer Equivalent Sources on the Sphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034259?af=R",
+    "authors": [
+      "Arthur Siqueira‐Macedo, \nLeonardo Uieda, \nIndia Uppal"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "10.1029/2026JB034613",
+    "title": "Interseismic Strain Accumulation and Partitioning in Hispaniola From GNSS and InSAR",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034613?af=R",
+    "authors": [
+      "Christian Emmanuel, \nEric Calais, \nRomain Jolivet, \nBryan Raimbault, \nSteeve J. Symithe, \nDominique Boisson"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-19"
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02104-z",
     "title": "Experimental constraints on a long-lived magma layer at the Martian core–mantle boundary",
     "link": "https://www.nature.com/articles/s41561-026-02104-z",
