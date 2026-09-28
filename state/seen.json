@@ -1,5 +1,491 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-03041-y",
+    "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+    "link": "https://www.nature.com/articles/d41586-026-03041-y",
+    "authors": [
+      "Benjamin Thompson",
+      "Shamini Bundell"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03041-y\">doi:10.1038/d41586-026-03041-y</a>Nature staff discuss a technique that could help researchers read charred Herculaneum scrolls — plus, a biodegradeable, edible battery.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03032-z",
+    "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-03032-z",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03032-z\">doi:10.1038/d41586-026-03032-z</a>Andrew Robinson reviews five of the best science picks.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03039-6",
+    "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+    "link": "https://www.nature.com/articles/d41586-026-03039-6",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03039-6\">doi:10.1038/d41586-026-03039-6</a>The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03023-0",
+    "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+    "link": "https://www.nature.com/articles/d41586-026-03023-0",
+    "authors": [
+      "Mark Peplow"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03023-0\">doi:10.1038/d41586-026-03023-0</a>Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03016-z",
+    "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+    "link": "https://www.nature.com/articles/d41586-026-03016-z",
+    "authors": [
+      "Uttam Babu  Shrestha"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03016-z\">doi:10.1038/d41586-026-03016-z</a>The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02980-w",
+    "title": "Exclusive: Sham scientific societies are misleading star researchers",
+    "link": "https://www.nature.com/articles/d41586-026-02980-w",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02980-w\">doi:10.1038/d41586-026-02980-w</a>A Nature investigation reveals a network of organizations that have been building their ranks through deceptive practices.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03028-9",
+    "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
+    "link": "https://www.nature.com/articles/d41586-026-03028-9",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03028-9\">doi:10.1038/d41586-026-03028-9</a>Mark Chen discusses how the Hugging Face cybersecurity incident prompted a pivot to safety — and giving AI models a sense of 'taste'.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03005-2",
+    "title": "AI bots are flooding researchers with requests for money and time",
+    "link": "https://www.nature.com/articles/d41586-026-03005-2",
+    "authors": [
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03005-2\">doi:10.1038/d41586-026-03005-2</a>Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
+    "source": "Nature",
+    "date": "2026-09-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02988-2",
+    "title": "Bumblebees don’t mind a little plastic in their honeypots",
+    "link": "https://www.nature.com/articles/d41586-026-02988-2",
+    "authors": [],
+    "summary": "Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02988-2\">doi:10.1038/d41586-026-02988-2</a>Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-storage vessels.",
+    "source": "Nature",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02989-1",
+    "title": "Youthful fans of YouTube sports videos stick to the sofa",
+    "link": "https://www.nature.com/articles/d41586-026-02989-1",
+    "authors": [],
+    "summary": "Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02989-1\">doi:10.1038/d41586-026-02989-1</a>University students who are highly motivated to watch sports online do not report higher participation in exercise.",
+    "source": "Nature",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03020-3",
+    "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
+    "link": "https://www.nature.com/articles/d41586-026-03020-3",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03020-3\">doi:10.1038/d41586-026-03020-3</a>Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens.",
+    "source": "Nature",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02990-8",
+    "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
+    "link": "https://www.nature.com/articles/d41586-026-02990-8",
+    "authors": [
+      "Kaia Glickman"
+    ],
+    "summary": "Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02990-8\">doi:10.1038/d41586-026-02990-8</a>Platform allows disparate machines to communicate and to be controlled by an artificial-intelligence agent.",
+    "source": "Nature",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03024-z",
+    "title": "AI agent hacks government website for first time: why this breach matters",
+    "link": "https://www.nature.com/articles/d41586-026-03024-z",
+    "authors": [
+      "Mohana Basu",
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03024-z\">doi:10.1038/d41586-026-03024-z</a>An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn’t reported for months.",
+    "source": "Nature",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03029-8",
+    "title": "Daily briefing: Will AI really be the death of us all?",
+    "link": "https://www.nature.com/articles/d41586-026-03029-8",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03029-8\">doi:10.1038/d41586-026-03029-8</a>Nature unpacks why AI companies are calling for a slowdown. Plus, the best clock ever and a new, unusual phase of boron.",
+    "source": "Nature",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03022-1",
+    "title": "AlphaFold ‘goes viral’: database adds protein complexes of common viruses",
+    "link": "https://www.nature.com/articles/d41586-026-03022-1",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 24 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03022-1\">doi:10.1038/d41586-026-03022-1</a>AI predictions could help with pandemic preparedness, but they will need experimental confirmation.",
+    "source": "Nature",
+    "date": "2026-09-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03025-y",
+    "title": "Daily briefing: Read the text inside a charred, rolled-up scroll",
+    "link": "https://www.nature.com/articles/d41586-026-03025-y",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 23 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03025-y\">doi:10.1038/d41586-026-03025-y</a>Lead detection reveals the ink on burnt sheets of papyrus. Plus, the first radio signals from an exoplanet and how to stay smart in the age of AI.",
+    "source": "Nature",
+    "date": "2026-09-23"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77510-3",
+    "title": "mHolmes improves cross anatomical cadaveric microbiome forecasting for postmortem interval estimation",
+    "link": "https://www.nature.com/articles/s41467-026-77510-3",
+    "authors": [
+      "Jin Han",
+      "Yuli Zhang",
+      "Haohong Zhang",
+      "Kouyi Zhou",
+      "Xiaoke Chen",
+      "Kang Ning"
+    ],
+    "summary": "Nature Communications, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77510-3\">doi:10.1038/s41467-026-77510-3</a>This study presents mHolmes, a transfer-learning framework that forecasts postmortem microbiome changes across body sites, improving postmortem interval estimation and highlighting microbial features with forensic potential.",
+    "source": "Nature Communications",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78159-8",
+    "title": "Metal cofactor-level chassis engineering enables aerobic expression of tungsten formate dehydrogenases in <i>Escherichia coli</i>",
+    "link": "https://www.nature.com/articles/s41467-026-78159-8",
+    "authors": [
+      "Uyen Thu Phan",
+      "Jun-Min Lee",
+      "Toan Minh Vo",
+      "Min-Kyu Oh",
+      "Yong Hwan Kim"
+    ],
+    "summary": "Nature Communications, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78159-8\">doi:10.1038/s41467-026-78159-8</a>Tungsten-dependent enzyme production is limited by complex metal cofactor requirements and poor compatibility with expression hosts. Here the authors engineer E. coli to support the aerobic production of various tungsten-dependent formate dehydrogenases.",
+    "source": "Nature Communications",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78122-7",
+    "title": "Structural basis of stepwise G protein activation by the viral chemokine receptor US28",
+    "link": "https://www.nature.com/articles/s41467-026-78122-7",
+    "authors": [
+      "Kevin M. Jude",
+      "Carl-Mikael Suomivuori",
+      "Deepa Waghray",
+      "Shoji Maeda",
+      "Yoshinori Fujiyoshi",
+      "Asuka Inoue",
+      "K. Christopher Garcia",
+      "Naotaka Tsutsumi"
+    ],
+    "summary": "Nature Communications, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78122-7\">doi:10.1038/s41467-026-78122-7</a>GPCRs are crucial drug targets, but the structural steps of G protein activation remain elusive. Here, using cryo-EM, the authors capture plausible intermediate states of a viral GPCR-human Gq complex, suggesting a stepwise activation mechanism.",
+    "source": "Nature Communications",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77967-2",
+    "title": "Efficient transport kinetics of indirect excitons in van der Waals heterostructure",
+    "link": "https://www.nature.com/articles/s41467-026-77967-2",
+    "authors": [
+      "Zhiwen Zhou",
+      "W. J. Brunner",
+      "E. A. Szwed",
+      "H. Henstridge",
+      "L. H. Fowler-Gerace",
+      "L. V. Butov"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77967-2\">doi:10.1038/s41467-026-77967-2</a>Here, the authors investigate the transport kinetics of indirect excitons (IXs) in a MoSe2/WSe2 van der Waals heterostructure, and observe anomalously high IX mobility, consistent with IX superfluidity.",
+    "source": "Nature Communications",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77197-6",
+    "title": "Global spatiotemporal dynamics of mortality from carbapenem-resistant Gram-negative infections over the past three decades",
+    "link": "https://www.nature.com/articles/s41467-026-77197-6",
+    "authors": [
+      "Zhihui Chen",
+      "Mingchen Zhong",
+      "Jing Wu",
+      "Xiangru Ye",
+      "Zhonghua Li",
+      "Jing Wang",
+      "Yueru Tian",
+      "Shirong Li",
+      "Lei Zhou",
+      "Jie Ni",
+      "Jialin Jin",
+      "Wenhong Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77197-6\">doi:10.1038/s41467-026-77197-6</a>Long-term mortality from carbapenem-resistant Gram-negative infections is poorly characterised worldwide. Here, authors analyse data from 204 countries and territories, revealing divergent trajectories by region, pathogen, and pandemic period.",
+    "source": "Nature Communications",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78046-2",
+    "title": "Branched-type nanocluster-junction fluorofluidic-gels for interface-adaptive thermal conduction and mechanical resistance",
+    "link": "https://www.nature.com/articles/s41467-026-78046-2",
+    "authors": [
+      "Weiming Tang",
+      "Hangsheng Zhou",
+      "Hanyu Wang",
+      "Xingyue Zhu",
+      "Lei Jiang",
+      "Ziguang Zhao",
+      "Shutao Wang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78046-2\">doi:10.1038/s41467-026-78046-2</a>‘Conventional thermal interface materials often suffer from a certain degree of mismatch between their thermal conductivity and contact thermal resistance. Here the authors develop a thermal interface fluorofluidic-gel with a branched-type nanocluster-junction network exhibiting high thermal conductivity and low contact thermal resistance.",
+    "source": "Nature Communications",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78079-7",
+    "title": "<i>Alteromonas macleodii</i> breaches the diatom frustule triggering protoplast emergence and programmed necrosis-like death in <i>Thalassiosira rotula</i>",
+    "link": "https://www.nature.com/articles/s41467-026-78079-7",
+    "authors": [
+      "Isobel Short",
+      "Clara Martínez-Pérez",
+      "Samuel Miravet-Verde",
+      "Shinichi Sunagawa",
+      "Roman Stocker",
+      "Uria Alcolombri"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78079-7\">doi:10.1038/s41467-026-78079-7</a>In this study, the authors show that the marine bacterium Alteromonas macleodii exploits the diatom Thalassiosira rotula by triggering programmed necrosis-like cell death. By forcing cells out of their silica shells and lysing them, this interaction may affect ocean carbon cycling.",
+    "source": "Nature Communications",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003132",
+    "title": "Bedding-parallel fractures and their implications for hydrocarbon enrichment in lacustrine shales",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003132?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Guoping Liu, Zhijun Jin, Lianbo Zeng, Xuan Tang, Zhenlin Wang, Jiankang Lu, Song Cao, Xiaoyu Du, Shaobo Gao",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002965",
+    "title": "Mid-ocean ridge extinctions as amplifiers of plate-tectonic change",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002965?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Guido M. Giannicor, Conrado Gianni, Leandro Gallo, Christian Sippl, Harim Arvizu, Victor Ramos",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005558",
+    "title": "Small-scale irregular mare patches as post-emplacement collapse features: Evidence from lunar and terrestrial analogues",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005558?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): Zhonglu Lei, Zhizhong Kang, Carolyn H. van der Bogert, Lukas Wueller, Teng Hu, Xiaojian Xu, Harald Hiesinger",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "10.1029/2026GL124170",
+    "title": "A Multi‐Basin Calibration of Magnetofossils as a Quantitative Proxy for Bottom Water Oxygenation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124170?af=R",
+    "authors": [
+      "Rong Huang, \nLiao Chang, \nShengfa Liu, \nJimin Yu, \nWanyi Lu, \nJianghui Du, \nBabette A. A. Hoogakker, \nMasanobu Yamamoto, \nKeiji Horikawa, \nYuhji Yamamoto, \nYusuke Okazaki, \nPengfei Xue, \nQishun Sun, \nYanting Lin, \nXuefa Shi, \nSomkiat Khokiattiwong, \nNarumol Kornkanitnan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL124514",
+    "title": "The Role of ENSO Phase Transition in the Delayed North Atlantic Oscillation Response",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124514?af=R",
+    "authors": [
+      "Bingning Meng, \nLei Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL124557",
+    "title": "Lightning Source of Nitrogen Oxides (NOx) Inferred From Geostationary Satellites: Global Implications for Oxidant Chemistry",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124557?af=R",
+    "authors": [
+      "Ruijun Dang, \nDaniel J. Jacob, \nMegan He, \nOlivia E. Clifton, \nKe Li, \nHong Liao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2025GL121169",
+    "title": "The Altitude Effect of Stable Isotopes in Rivers Over the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121169?af=R",
+    "authors": [
+      "Yakui Chen, \nYanlong Kong, \nTao Pu, \nXiaoyi Shi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL123823",
+    "title": "Hydrogen‐Bond Symmetrization in Hydrous Aluminous Silica Enhances Deep‐Mantle Water Cycle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123823?af=R",
+    "authors": [
+      "Chaoshuai Zhao, \nZhu Mao, \nYingxin Yu, \nNingyu Sun, \nYunhua Fu, \nJianbo Zhang, \nHanns‐Peter Liermann, \nRenbiao Tao, \nTakayuki Ishii"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL122075",
+    "title": "Iceberg Freshwater Transport Alleviates Future Weakening of Antarctic Bottom Water Formation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122075?af=R",
+    "authors": [
+      "Jiawei Shi, \nDawei Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL123340",
+    "title": "Quantifying Cloud‐Fog‐Induced Reductions in Near‐Surface Solar Radiation Using the Reduction Ratio Method",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123340?af=R",
+    "authors": [
+      "Te‐Yu Ou, \nRong‐Yu Gu, \nYi‐Shin Jang, \nChing‐Hung Shih, \nTzu‐Ying Yang, \nChao‐Tzuen Cheng, \nYung‐Ming Chen, \nCho‐ying Huang, \nMin‐Hui Lo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL125399",
+    "title": "Listening to Tsunami Waves Induced by Glacier Calving",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125399?af=R",
+    "authors": [
+      "O. Glowacki, \nM. D. Stokes, \nG. B. Deane"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL125685",
+    "title": "Modeling Storm‐Time Post‐Midnight Equatorial Plasma Bubbles With SAMI3‐WACCMX: Impacts of Neutral Winds, Thermospheric Composition, and Atmospheric Waves",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125685?af=R",
+    "authors": [
+      "Min‐Yang Chou, \nJ. D. Huba, \nJack Wang, \nJia Yue, \nMaksym Petrenko"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GL124647",
+    "title": "Changing Antecedent Land‐Surface Conditions Can Amplify Future Heat Extremes Across New Zealand",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124647?af=R",
+    "authors": [
+      "Nilanjan Debsharma, \nHamish Lewis, \nLuke J. Harrington, \nPeter B. Gibson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026GC012975",
+    "title": "Authigenic Be Isotopes Record Circumpolar Deep Water Inflow and Subglacial Outflow in Antarctic Shelf Sediments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012975?af=R",
+    "authors": [
+      "Yuri Yamazaki, \nYusuke Suganuma, \nTakuya Itaki, \nAtsuko Amano, \nTakeshige Ishiwa, \nDaisuke Hirano, \nMotohiro Hirabayashi, \nHiroyuki Matsuzaki, \nTakeyasu Yamagata, \nYuki Tokuda, \nTakeshi Sugimura, \nTakeshi Tamura, \nKazuya Kusahara, \nJun'ichi Okuno, \nKosei E. Yamaguchi"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2025JB033653",
+    "title": "Poromechanics of Particle Remobilization and Interface Stiffness of Dynamically Stressed Fractured Rock",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033653?af=R",
+    "authors": [
+      "Clay E. Wood, \nJacques Rivière, \nDerek Elsworth, \nChris Marone, \nParisa Shokouhi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026JB034491",
+    "title": "Hydrogen‐Induced Volume Expansion in Hexagonal Close‐Packed Iron: Effects of Pressure, Temperature, and Crystal Structure",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034491?af=R",
+    "authors": [
+      "Yuichiro Mori, \nMasahiro Takano, \nHiroyuki Kagi, \nKatsutoshi Aoki, \nSho Kakizawa, \nNoriyoshi Tsujino, \nYuji Higo"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2026JB034350",
+    "title": "Microscale Hyperspectral Mapping of a Kilometer of Mantle Rocks: Insights Into Low‐Temperature Serpentinization Systems From the Oman Drilling Program Cores",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034350?af=R",
+    "authors": [
+      "Lucia Mandon, \nBethany L. Ehlmann, \nRebecca N. Greenberger, \nEric T. Ellison, \nLisa E. Mayhew, \nAlexis S. Templeton"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "10.1029/2025JB033013",
+    "title": "Acoustic Wave Signatures of Earthquake Rupture Dynamics in the Upper Atmosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033013?af=R",
+    "authors": [
+      "Y. Kaneko, \nP. A. Inchin, \nY. Nozuka, \nR. Sabatini, \nR. Enomoto, \nJ. B. Snively"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-26"
+  },
+  {
     "id": "https://www.nature.com/articles/s43247-026-04098-3",
     "title": "Government support drives agroforestry adoption and tree cultivation in smallholder farming systems",
     "link": "https://www.nature.com/articles/s43247-026-04098-3",
