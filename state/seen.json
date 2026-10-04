@@ -1,5 +1,280 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-03037-8",
+    "title": "Location, location, location: how to edit genes only in the cells you want",
+    "link": "https://www.nature.com/articles/d41586-026-03037-8",
+    "authors": [],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03037-8\">doi:10.1038/d41586-026-03037-8</a>Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03057-4",
+    "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+    "link": "https://www.nature.com/articles/d41586-026-03057-4",
+    "authors": [
+      "Benjamin Thompson"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03057-4\">doi:10.1038/d41586-026-03057-4</a>The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum physics in fiction.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03058-3",
+    "title": "How to respond to hate speech without fuelling it further",
+    "link": "https://www.nature.com/articles/d41586-026-03058-3",
+    "authors": [
+      "Dhruv Shenai"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03058-3\">doi:10.1038/d41586-026-03058-3</a>Psychologist Mirta Galesic discusses an increase in hateful comments online, and the science-backed way to react.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03126-8",
+    "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+    "link": "https://www.nature.com/articles/d41586-026-03126-8",
+    "authors": [
+      "Sarah Wild"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03126-8\">doi:10.1038/d41586-026-03126-8</a>A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03145-5",
+    "title": "Nature has rights — it is time the world recognized them",
+    "link": "https://www.nature.com/articles/d41586-026-03145-5",
+    "authors": [
+      "Juan Carlos Navarro",
+      "Callie Veelenturf"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03145-5\">doi:10.1038/d41586-026-03145-5</a>Existing legal frameworks have not halted planetary crises. Recognizing the rights of nature could offer a different path.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03133-9",
+    "title": "Can you name the women who have won a science Nobel prize?",
+    "link": "https://www.nature.com/articles/d41586-026-03133-9",
+    "authors": [
+      "Richard Van Noorden"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03133-9\">doi:10.1038/d41586-026-03133-9</a>Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or medicine.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02976-6",
+    "title": "Von Neumann’s party",
+    "link": "https://www.nature.com/articles/d41586-026-02976-6",
+    "authors": [
+      "Jeffrey Dennis Martin"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02976-6\">doi:10.1038/d41586-026-02976-6</a>A tricky question.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02769-x",
+    "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+    "link": "https://www.nature.com/articles/d41586-026-02769-x",
+    "authors": [
+      "Richard Van Noorden"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02769-x\">doi:10.1038/d41586-026-02769-x</a>One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02564-8",
+    "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
+    "link": "https://www.nature.com/articles/d41586-026-02564-8",
+    "authors": [
+      "Hannah Docter-Loeb"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02564-8\">doi:10.1038/d41586-026-02564-8</a>Advocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience.",
+    "source": "Nature",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78126-3",
+    "title": "Multivalent antiviral conjugates enhance activity against Influenza via cross-linking viruses",
+    "link": "https://www.nature.com/articles/s41467-026-78126-3",
+    "authors": [
+      "Xun Feng",
+      "Lunzhi Yuan",
+      "Lei Zhao",
+      "Lianqi Liu",
+      "Fei Xie",
+      "Ming Zhou",
+      "Gong Cheng",
+      "Yi Guan",
+      "Ningshao Xia",
+      "Tong Cheng",
+      "Wu Zhong",
+      "Dian Xiao",
+      "Xinbo Zhou",
+      "Song Li"
+    ],
+    "summary": "Nature Communications, Published online: 04 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78126-3\">doi:10.1038/s41467-026-78126-3</a>A multivalent antiviral conjugates (AVCs) platform was established by conjugating NA inhibitors and Fc domain. AVCs cross-link flu viruses, blocking entry and release. Trivalent peramivir-Fc conjugate outperformed clinical drugs in mice.",
+    "source": "Nature Communications",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78452-6",
+    "title": "A family of small proteins links c-di-GMP riboswitch signaling with sporulation in <i>Clostridioides difficile</i>",
+    "link": "https://www.nature.com/articles/s41467-026-78452-6",
+    "authors": [
+      "Adriana Badilla Lobo",
+      "Anne-Judith Waligora-Dupriet",
+      "Louise Penven",
+      "Roland Seifert",
+      "César Rodríguez",
+      "Frédéric Barbut",
+      "Olga Soutourina",
+      "Johann Peltier"
+    ],
+    "summary": "Nature Communications, Published online: 04 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78452-6\">doi:10.1038/s41467-026-78452-6</a>The second messenger c-di-GMP inhibits sporulation in the pathogenic bacterium Clostridioides difficile through unclear mechanisms. Here, Badilla Lobo et al. show that the expression of sporulation genes is modulated by a family of small membrane-associated proteins encoded by genes that are controlled by c-diGMP-regulated riboswitches.",
+    "source": "Nature Communications",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78130-7",
+    "title": "A <i>CCL21</i>&#xa0;gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+    "link": "https://www.nature.com/articles/s41467-026-78130-7",
+    "authors": [
+      "Michael S. Oh",
+      "Aaron E. Lisberg",
+      "Camelia Dumitras",
+      "Linh M. Tran",
+      "Ramin Salehi-Rad",
+      "Kostyantyn Krysan",
+      "Raymond J. Lim",
+      "Maryam Shabihkhani",
+      "Tahmineh Romero",
+      "Shuo Li",
+      "Weihua Zeng",
+      "Zhe Jing",
+      "Rui Li",
+      "Bitta P. Kahangi",
+      "Olga Tsvetkova",
+      "Robert D. Suh",
+      "Fereidoun Abtin",
+      "Scott J. Genshaft",
+      "Scott S. Oh",
+      "Gregory A. Fishbein",
+      "Daniel R. Greenwald",
+      "Kanwarpal S. Kahlon",
+      "Sidharth R. Anand",
+      "Shahryar Ashouri",
+      "Jonathan W. Goldman",
+      "Jay M. Lee",
+      "Xianghong J. Zhou",
+      "David A. Elashoff",
+      "Edward B. Garon",
+      "Bin Liu",
+      "Steven M. Dubinett"
+    ],
+    "summary": "Nature Communications, Published online: 04 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78130-7\">doi:10.1038/s41467-026-78130-7</a>Feasibility and safety profile of intratumoral administration of a DC vaccine overexpressing CCL21 (CCL21-DC) have been previously reported in patients with non-small cell lung cancer (NSCLC). Here the authors report safety, clinical outcomes and immunological correlates of a phase I trial of CCL21-DC in combination with anti-PD1 pembrolizumab in patients with advanced NSCLC.",
+    "source": "Nature Communications",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78416-w",
+    "title": "Volitional control of wearable robots",
+    "link": "https://www.nature.com/articles/s41467-026-78416-w",
+    "authors": [
+      "Massimo Sartori",
+      "Gregory S. Sawicki"
+    ],
+    "summary": "Nature Communications, Published online: 03 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78416-w\">doi:10.1038/s41467-026-78416-w</a>This Comment motivates the development of human–machine interfaces that decode spinal motor neuron activity and resulting muscle force information in moving humans. Such interfaces could enable users across the neuromuscular functional spectrum to volitionally control wearable robots with muscle-like behaviour.",
+    "source": "Nature Communications",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78261-x",
+    "title": "Sustainability cost of defect engineering in color centers for quantum communications",
+    "link": "https://www.nature.com/articles/s41467-026-78261-x",
+    "authors": [
+      "Sahar Shata",
+      "Julie M. Schoenung"
+    ],
+    "summary": "Nature Communications, Published online: 03 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78261-x\">doi:10.1038/s41467-026-78261-x</a>Sustainable manufacturing is becoming an increasingly important consideration for emerging quantum technologies. Here, the authors assess the environmental, chemical, human-health, and economic impacts of defect engineering strategies for color-center platforms used in quantum communications, highlighting trade-offs between quantum functionality and resource demands while identifying lower-impact solutions.",
+    "source": "Nature Communications",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78039-1",
+    "title": "Bulk mesophases modeling of ferroelectric nematic liquid crystals",
+    "link": "https://www.nature.com/articles/s41467-026-78039-1",
+    "authors": [
+      "Aditya Vats",
+      "Alenka Mertelj",
+      "Miha Ravnik"
+    ],
+    "summary": "Nature Communications, Published online: 03 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78039-1\">doi:10.1038/s41467-026-78039-1</a>Ferroelectric nematic liquid crystals are an emerging class of materials in which nematic orientational order coexists with spontaneous macroscopic polarization. Vats et al. develop a free-energy framework to rationalize their bulk structures and predict potential bend-instability-driven mesophases.",
+    "source": "Nature Communications",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78050-6",
+    "title": "Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation",
+    "link": "https://www.nature.com/articles/s41467-026-78050-6",
+    "authors": [
+      "Kieran Russell",
+      "Yifang Chen",
+      "Jorge R. Espinosa",
+      "David Farré-Gil",
+      "Huabin Zhou",
+      "M. Julia Maristany",
+      "Jose Ignacio Perez-Lopez",
+      "Jan Huertas",
+      "Modesto Orozco",
+      "Michael K. Rosen",
+      "Rosana Collepardo-Guevara"
+    ],
+    "summary": "Nature Communications, Published online: 03 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78050-6\">doi:10.1038/s41467-026-78050-6</a>Russell et al. introduce a 10 × faster, chemically detailed chromatin model bridging molecular and genomic scales, revealing how DNA sequence, spacing and histone acetylation govern chromatin folding and phase separation.",
+    "source": "Nature Communications",
+    "date": "2026-10-03"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003181",
+    "title": "Hydrothermal fluid as a multi-parameter proxy for the differential control of deep strike-slip faults on hydrocarbon accumulation in the Sichuan Basin: A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003181?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Zezhang Song, Ziyu Zhang, Bingfei Ge, Meijia Wu, Shigui Jin, Kevin Taylor, Lin Ma",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005595",
+    "title": "Global mean sea-level fall from late Marine Isotope Stage 3 into the Last Glacial Maximum inferred from Great Barrier Reef large benthic foraminiferal assemblages",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005595?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): Kazuhiko Fujita, Choko Nakada, Noriko Yagioka, Yosuke Miyairi, Marc Humblet, Hironobu Kan, Yasufumi Iryu, Jody M. Webster, Yusuke Yokoyama",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006332",
+    "title": "Recycling of terrestrial mercury in modern subduction zones: constraints from Hg-Sr-Nd-B isotope systematics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006332?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Dian-Bing Wang, Ping-Ping Liu, Runsheng Yin",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006319",
+    "title": "The effect of pressure and temperature on the fluid/melt partitioning of porphyry ore metals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006319?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ivano Gennaro, Alexandra Tsay, Zoltán Zajacz",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-04"
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady4531?af=R",
     "title": "Suspended particles for omnidirectional template sacrifice for rapid vascular patterning within engineered tissues",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady4531?af=R",
